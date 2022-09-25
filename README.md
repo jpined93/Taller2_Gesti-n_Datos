@@ -29,7 +29,6 @@ Decidimos identificar que tipos de comida son más populares entre la gente, par
 </br></br>
 Decidimos identificar el progreso de los restaurantes a traves de los años.Para esto se extrajeron las caracteristicas grade, year, name y cuisine  ,el proceso se encuentra a continuación.
 </br></br>
-
 3.   Definir cuales son los restaurante/tipos de cocina con mejor desempeño
 </br></br>
 Dando respuesta a las dos preguntas anteriores podemos dar analizar el desempeño de los restaurantes no solo teniendo en cuenta el score promedio sino tambien su cambio a travez de los años
