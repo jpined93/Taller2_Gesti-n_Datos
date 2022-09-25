@@ -90,3 +90,10 @@ Otro aspecto importante observado es que aunque calificamos como peores restaura
 ![image](https://user-images.githubusercontent.com/101982334/192146973-5000a4e0-d240-4bcd-b84b-95ab200993a6.png)
 
 Por otro lado al aplicar el mismo analisis pero al top 5 restaurantes con la peor calificación promedio, podemos ver frecuencias de calificación mayores que los restaurantes con mejores promedios, lo que indica que son restaurantes con mayor tendencia a la calificación y por consencuente con scores promedio menos sesgados por la cantidad de observaciones
+
+![image](https://user-images.githubusercontent.com/68342851/192171279-8ebcbc2d-3f53-44b6-9ca0-d0e9ef67b083.png)
+
+
+Hicimos una comparacion del tipo de restaurantes mas populares por county de Nueva York para poder comparar con otros tipos de cosina (para esto elegimos algunos de los estilos mas populares que hablan de comidas por algún tipo de región).
+
+Vemos que la comida italiana tiene mas restaurantes en Manhattan, en comparación con otros estilos nacionales (Incluso mayor que la comida china que es más común en la totalidad de Nueva York) por lo que puede ser un lugar adecuado para incorporar un restaurante de este estilo. Por otra parte en localidades como el Bronx es mesnos común que comida española o india, por lo que para instaurar un negocio de estilo italiano tendria que venir acompañado con una buena campaña de publicidad para subvertir las costumbres de la zona (aunque de lograr establecerse no tendría competencia).
