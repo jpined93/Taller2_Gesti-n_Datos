@@ -22,16 +22,16 @@ Se utilizo la colección "sample_restaurants" especificamente la tabla "restaura
 # b. Definición de las 3 preguntas de negocio que se quieren responder.
 </br>
 1.   Tipos de cocina con mejores calificaciones
-</br>
+</br></br>
 Decidimos identificar que tipos de comida son más populares entre la gente, para compreder esto utilizamos el identificador de cocina y los scores que tuvo en promedio cada tipo de restaurante, el proceso se encuentra a continuación.
-</br>
+</br></br>
 2.   Progreso de los restaurantes/ tipo de cocina con respecto al tiempo
-</br>
+</br></br>
 Decidimos identificar el progreso de los restaurantes a traves de los años.Para esto se extrajeron las caracteristicas grade, year, name y cuisine  ,el proceso se encuentra a continuación.
-</br>
+</br></br>
 
 3.   Definir cuales son los restaurante/tipos de cocina con mejor desempeño
-</br>
+</br></br>
 Dando respuesta a las dos preguntas anteriores podemos dar analizar el desempeño de los restaurantes no solo teniendo en cuenta el score promedio sino tambien su cambio a travez de los años
-</br>
+</br></br>
 
