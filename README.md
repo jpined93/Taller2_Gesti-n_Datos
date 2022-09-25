@@ -34,10 +34,10 @@ Decidimos identificar el progreso de los restaurantes a traves de los años.Para
 Dando respuesta a las dos preguntas anteriores podemos dar analizar el desempeño de los restaurantes no solo teniendo en cuenta el score promedio sino tambien su cambio a travez de los años
 </br></br>
 
-# Analisis 
+# c. Visualización de los resultados tras consultar las tablas en BigQuery. Puede hacerlo desde Python o desde cualquier herramienta que le permita conectarse a BigQuery y construir visualizaciones (p.e. Power BI o Tableau) 
 </br></br>
 
-**Top 5 tipos de cocina por score**
+**Top 5 tipos de cocina mejor calificado por score**
 </br></br>
 
 Los resultados encontrados es que el top 5 de comidas preferidas son iranies, hawaiana, china/japonesa, polynesia y creole. Es posible que estos resutados se den por dos motivos (aparte de la calidad misma de la cocina) que consideramos, en primer lugar que aquellos restaurantes muy particulares, se pueden beneficiar de poca dispersion de reviews y de un sesgo de selección.
@@ -51,6 +51,8 @@ En segundo lugar es posible que haya sesgo de seleccion, y la gente que decide i
 
 Aún así es muy posible que estos restaurantes manifiesten efectivamente muy buena calidad y sean reconocidos de esta forma por parte de los clientes.
 </br></br>
+
+![image](https://user-images.githubusercontent.com/101982334/192146804-d3aa39bd-fe7e-4e99-be48-5608b32a6adb.png)
 
 
 **Top 5 tipos de cocina peor calificados por score**
@@ -69,3 +71,22 @@ Este tipo de restaurantes podrían ser una oportunidad de negocio pero pensando 
 
 ![image](https://user-images.githubusercontent.com/101982334/192146732-504ca6e4-b475-4370-aacc-1456110a2a63.png)
 
+**Comportamiento tipos de comida por los años**
+
+Haciendo un analisis temporal de la proporción de las calificaciones  podemos ver que la mayoria de las personas califican con una tendencia a la alta casi siempre dando calificaciones A y B, siendo muy pocas en calificaciones en el espectro bajo de la escala. 
+
+Otro aspecto importante observado es que aunque calificamos como peores restaurantes lo que sucede es que estos restaurantes  en su mayoria tienen muy pocas calificaciones
+
+![image](https://user-images.githubusercontent.com/101982334/192146917-522648de-1611-4ef3-961e-b87a4c344e2b.png)
+
+![image](https://user-images.githubusercontent.com/101982334/192146928-e51f551e-30d3-46ab-861d-9e19f5e7fd80.png)
+
+Haciendo un analisis temporal de la proporción de las calificaciones  podemos ver que la mayoria de las personas califican con una tendencia a la alta casi siempre dando calificaciones A y B, siendo muy pocas en calificaciones en el espectro bajo de la escala. 
+
+Otro aspecto importante observado es que aunque calificamos como peores restaurantes lo que sucede es que estos restaurantes  en su mayoria tienen muy pocas calificaciones
+
+![image](https://user-images.githubusercontent.com/101982334/192146963-06254515-d310-49d2-acfc-4a3292a44475.png)
+
+![image](https://user-images.githubusercontent.com/101982334/192146973-5000a4e0-d240-4bcd-b84b-95ab200993a6.png)
+
+Por otro lado al aplicar el mismo analisis pero al top 5 restaurantes con la peor calificación promedio, podemos ver frecuencias de calificación mayores que los restaurantes con mejores promedios, lo que indica que son restaurantes con mayor tendencia a la calificación y por consencuente con scores promedio menos sesgados por la cantidad de observaciones
