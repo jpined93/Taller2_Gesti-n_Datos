@@ -66,3 +66,6 @@ En segundo lugar la comida Creole era una de las mejor evaluadas, pero la conjuc
 </br></br>
 
 Este tipo de restaurantes podrían ser una oportunidad de negocio pero pensando en clientes que no sean muy exigentes y que tengan pocas consideraciones acerca de la calidad del producto, y mas bien tratar de competir con precio. O por el contrario son buenas oportunidades para apuntarle a un producto de muy buena calidad en alguno de estos estilos de cocina pero con la inversion suficiente para subvertir la opinion del público general
+
+![image](https://user-images.githubusercontent.com/101982334/192146732-504ca6e4-b475-4370-aacc-1456110a2a63.png)
+
