@@ -7,7 +7,7 @@ Daniel Duque</br></br>
 
 </br></br>
 
-#a. Descripción general de la colección de datos escogida.
+# a. Descripción general de la colección de datos escogida.
 </br></br>
 Se utilizo la colección "sample_restaurants" especificamente la tabla "restaurants". que contiene las siguientes columnas
 </br></br>
@@ -20,7 +20,7 @@ Se utilizo la colección "sample_restaurants" especificamente la tabla "restaura
 *   restaurant_id: ID del restaurante </br></br>
 
 # b. Definición de las 3 preguntas de negocio que se quieren responder.
-
-1.   Tipos de cocina con mejores calificaciones
+</br></br>
+1.   Tipos de cocina con mejores calificaciones 
 2.   Progreso de los restaurantes/ tipo de cocina con respecto al tiempo
 3.   Definir cuales son los restaurante/tipos de cocina con mejor desempeño
